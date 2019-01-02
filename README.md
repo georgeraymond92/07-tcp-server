@@ -1,15 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## TCP Server
 
-### Author: Student/Group Name
+### Author: George Raymond
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/georgeraymond92/07-tcp-server)
+* [travis](https://www.travis-ci.com/)
+* [heroku](https://dashboard.heroku.com/apps/agile-beach-63800)
 
 ### Modules
 #### `modulename.js`
@@ -28,15 +27,12 @@ Usage Notes or examples
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* Endpoint: `chatroom.js`
+  * Starts a messing server that can be accessed on your local area network
+
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+####Under Construction
 
 #### UML
 Link to an image of the UML for your application and response to events
